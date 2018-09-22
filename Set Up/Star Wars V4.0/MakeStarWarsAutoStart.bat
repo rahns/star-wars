@@ -1,0 +1,1 @@
+reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v AutoStarWars /d "C:\Program Files (x64)\Microsoft Office\Office16\Star\starwars v4.0.exe"
